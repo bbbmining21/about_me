@@ -18,6 +18,17 @@ Follow my DeGen tweets on my [twitter page](https://twitter.com/bbbmining21).
 <br />
 <br />
 <br />
+# Projects I helped polishing texts
+
+- [Cosmobook](https://github.com/keepyourlightson/cosmobook_eng)
+- [RektDAO](https://medium.com/@daorekt)
+<br />
+<br />
+<br /><br />
+<br />
+<br />
+
+
 ### If you wish to contact me you can ping me on twitter or send me a message on telegram. My profiles´re linked above. 
 <br />
 (don´t send me files please)
