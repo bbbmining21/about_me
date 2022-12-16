@@ -10,7 +10,7 @@ and
 When I´m not sitting in front of the screen and doing DeGen crypto stuff, I work as a freelance translator for courts, police departments, hospitals etc.  
 # About my social media commitment
 Currently I´m an admin in the russian speaking
-[ODIN Protocol group](https://t.me/ODINprotocol_ru) on telegram where I also lead another [small group](https://t.me/+Pg3xmYOyfnxiOWQy) for friends, acquaintances and their friends.<br />
+[ODIN Protocol group](https://t.me/ODINprotocol_ru) aswell as the [DataVerse group](https://t.me/geodb_russia) on telegram where I also lead another [small group](https://t.me/+Pg3xmYOyfnxiOWQy) for friends, acquaintances and their friends.<br />
 <br />
 You can get familiar with some essays and articles I wrote on my [Medium](https://medium.com/@Nicolas_Danylove) page in different langs.
 <br />
