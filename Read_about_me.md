@@ -18,7 +18,7 @@ Follow my DeGen tweets on my [twitter page](https://twitter.com/bbbmining21).
 <br />
 <br />
 <br />
-# Projects I helped polishing texts
+# Projects I helped polishing and translating texts
 
 - [Cosmobook](https://github.com/keepyourlightson/cosmobook_eng)
 - [RektDAO](https://medium.com/@daorekt)
