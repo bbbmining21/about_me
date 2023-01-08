@@ -22,6 +22,7 @@ Follow my DeGen tweets on my [twitter page](https://twitter.com/bbbmining21).
 
 - [Cosmobook](https://github.com/keepyourlightson/cosmobook_eng)
 - [RektDAO](https://medium.com/@daorekt)
+- [COSMOSHIELD](https://blog.cosmoshield.org)
 <br />
 <br />
 <br /><br />
