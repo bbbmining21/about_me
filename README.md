@@ -40,3 +40,7 @@ I work with the following languages:
 # Current whereabouts in the web3 trenches
 
 * [Trac Network](https://tracsystems.io)
+---
+# Project contributions
+
+- [Akash Network & Trac Network](https://github.com/bbbmining21/Trac-Validator-on-Akash-VPS)
