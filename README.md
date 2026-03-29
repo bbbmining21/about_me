@@ -11,6 +11,7 @@ and
 
 When I’m not sitting in front of the screen doing "degen" crypto stuff, I work as a freelance interpreter and translator for courts, police departments, hospitals, and many other interesting clients.
 
+---
 # About my social media commitment
 
 Currently, I’m an admin in the Russian-speaking  
@@ -20,6 +21,7 @@ You can read some essays and articles I’ve written on my [Medium](https://medi
 
 Follow my sometimes straightforward and political tweets on [Twitter](https://twitter.com/bbbmining21).
 
+---
 # Projects I helped polish and translate
 
 - [Cosmobook](https://github.com/keepyourlightson/cosmobook_eng)
@@ -34,3 +36,7 @@ I work with the following languages:
 - Russian
 - English
 - Ukrainian
+---
+# Current whereabouts in the web3 trenches
+
+* [Trac Network](https://tracsystems.io)
